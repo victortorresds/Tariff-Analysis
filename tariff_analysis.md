@@ -1,7 +1,7 @@
 Impact of US Tariffs on Chinese Transportation Equipment Imports
 ================
 Victor Torres
-2025-12-03
+12-03-2025
 
 - [Executive Summary](#executive-summary)
 - [1. Setup and Data Loading](#1-setup-and-data-loading)
@@ -722,7 +722,6 @@ CUNY School of Professional Studies
 
 ------------------------------------------------------------------------
 
-**Last Updated:** 2025-12-03  
-**Status:** ✅ Complete - Fully reproducible with included data files
+**Last Updated:** 12-03-2025  
 
 ------------------------------------------------------------------------

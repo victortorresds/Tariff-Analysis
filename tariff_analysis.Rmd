@@ -2,7 +2,7 @@
 title: "Impact of US Tariffs on Chinese Transportation Equipment Imports"
 subtitle: "A Difference-in-Differences Analysis (2015-2025)"
 author: "Victor Torres"
-date: "`r Sys.Date()`"
+date: "12/03/2025"
 output:
   github_document:
     toc: true
@@ -609,8 +609,7 @@ CUNY School of Professional Studies
 
 ---
 
-**Last Updated:** `r Sys.Date()`  
-**Status:** ✅ Complete - Fully reproducible with included data files
+**Last Updated:** 12/03/2025  
 
 ---
 
