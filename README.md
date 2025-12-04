@@ -28,9 +28,9 @@ Difference-in-differences econometric analysis featuring:
 ## Repository Structure
 ```
 Tariff-Analysis/
-├── PORTFOLIO_CODE_WITH_DATA.md    # Complete analysis (view this!)
-├── PORTFOLIO_CODE_WITH_DATA.Rmd   # Source R Markdown
-├── data/                          # All datasets (fully reproducible)
+├── tariff_analysis.md    # Complete analysis
+├── tariff_analysis.Rmd   # Source R Markdown
+├── data/                          # All datasets
 │   ├── fred_imports/              # FRED import data by country
 │   ├── census_imports/            # Product-level validation
 │   ├── household_appliances/      # Heterogeneity analysis
