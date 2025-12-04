@@ -1,0 +1,16 @@
+filename,script_num,purpose,keep
+01_did_analysis.R,01,DiD Analysis 2018,TRUE
+02_did_visualizations.R,02,DiD Visualizations 2018,TRUE
+03_did_analysis_2025.R,03,DiD Analysis 2025,TRUE
+04_visualizations_2025.R,04,DiD Visualizations 2025,TRUE
+05_projections_2025.R,05,2025 Projections,TRUE
+06_figure13_projections.R,06,Fix Figure 13,FALSE
+07_census_robustness_check.R,07,Census Robustness Check,TRUE
+08_fix_figure13.R,08,Fix Figure 13 (Improved),FALSE
+09_fix_figure12.R,09,Fix Figure 12,TRUE
+10_replace_fig6_scatter.R,10,New Figure 6 (Scatter),TRUE
+11_replace_fig4_boxplot.R,11,New Figure 4 (Boxplot),TRUE
+12_new_heatmap.R,12,New Figure 15 (Heatmap),TRUE
+13e_differential_impacts.R,13e,Figure 16 (Differential Impacts) - FINAL,TRUE
+14_violin_plot.R,14,Figure 17 (Violin Plots),TRUE
+cleanup_project.R,NA,Other,TRUE

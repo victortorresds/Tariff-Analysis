@@ -1,0 +1,21 @@
+filename,fig_num,category,use_in_paper
+fig10_parallel_trends_2025.png,fig10,Main Analysis,Results Section
+fig11_cumulative_tariff_effects.png,fig11,Main Analysis,Results Section
+fig12_regime_comparison_bars.png,fig12,Main Analysis,Results Section
+fig13_2025_projections.png,fig13,Main Analysis,Results Section
+fig14_robustness_census_comparison.png,fig14,Robustness Check,Appendix A
+fig15_import_changes_heatmap.png,fig15,Overview/Summary,Results Section
+fig16_differential_impacts.png,fig16,Industry Comparison,Results Section 3.5
+fig16b_industry_comparison_timeseries.png,fig16b,Industry Comparison,Results Section 3.5
+fig17_distributions_violin.png,fig17,Distribution Analysis,Appendix B
+fig17b_china_distribution_detail.png,fig17b,Distribution Analysis,Appendix B
+fig1_import_trends_raw.png,fig1,Main Analysis,Results Section
+fig2_import_trends_indexed.png,fig2,Main Analysis,Results Section
+fig3_parallel_trends.png,fig3,Main Analysis,Results Section
+fig4_did_visualization.png,fig4,Main Analysis,Results Section
+fig4_distributions_boxplot.png,fig4,Main Analysis,Results Section
+fig5_treatment_vs_control.png,fig5,Main Analysis,Results Section
+fig6_tariff_vs_decline_scatter.png,fig6,Main Analysis,Results Section
+fig7_2025_universal_tariffs.png,fig7,Main Analysis,Results Section
+fig8_2025_tariff_impact_focused.png,fig8,Main Analysis,Results Section
+fig9_2025_before_after.png,fig9,Main Analysis,Results Section

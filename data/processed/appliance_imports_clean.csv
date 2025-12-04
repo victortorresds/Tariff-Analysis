@@ -1,0 +1,905 @@
+date,country,imports,industry
+2015-01-01,Canada,19.224346,Appliances
+2015-02-01,Canada,20.43761,Appliances
+2015-03-01,Canada,21.314559,Appliances
+2015-04-01,Canada,27.340492,Appliances
+2015-05-01,Canada,21.703438,Appliances
+2015-06-01,Canada,28.563712,Appliances
+2015-07-01,Canada,22.976292,Appliances
+2015-08-01,Canada,25.537874,Appliances
+2015-09-01,Canada,20.736317,Appliances
+2015-10-01,Canada,22.859847,Appliances
+2015-11-01,Canada,21.74563,Appliances
+2015-12-01,Canada,19.928551,Appliances
+2016-01-01,Canada,20.127259,Appliances
+2016-02-01,Canada,20.123818,Appliances
+2016-03-01,Canada,27.292295,Appliances
+2016-04-01,Canada,29.113681,Appliances
+2016-05-01,Canada,25.17484,Appliances
+2016-06-01,Canada,22.392475,Appliances
+2016-07-01,Canada,19.482155,Appliances
+2016-08-01,Canada,18.15705,Appliances
+2016-09-01,Canada,21.070276,Appliances
+2016-10-01,Canada,24.735783,Appliances
+2016-11-01,Canada,28.614946,Appliances
+2016-12-01,Canada,14.824759,Appliances
+2017-01-01,Canada,19.005534,Appliances
+2017-02-01,Canada,21.371879,Appliances
+2017-03-01,Canada,25.518058,Appliances
+2017-04-01,Canada,32.805077,Appliances
+2017-05-01,Canada,29.376076,Appliances
+2017-06-01,Canada,27.468726,Appliances
+2017-07-01,Canada,27.051642,Appliances
+2017-08-01,Canada,29.27654,Appliances
+2017-09-01,Canada,24.312466,Appliances
+2017-10-01,Canada,24.449286,Appliances
+2017-11-01,Canada,22.025268,Appliances
+2017-12-01,Canada,18.479072,Appliances
+2018-01-01,Canada,18.990051,Appliances
+2018-02-01,Canada,23.416736,Appliances
+2018-03-01,Canada,33.861554,Appliances
+2018-04-01,Canada,23.792767,Appliances
+2018-05-01,Canada,31.792329,Appliances
+2018-06-01,Canada,26.680672,Appliances
+2018-07-01,Canada,27.567086,Appliances
+2018-08-01,Canada,31.100613,Appliances
+2018-09-01,Canada,26.058976,Appliances
+2018-10-01,Canada,30.063588,Appliances
+2018-11-01,Canada,18.997256,Appliances
+2018-12-01,Canada,23.26076,Appliances
+2019-01-01,Canada,25.454254,Appliances
+2019-02-01,Canada,24.128918,Appliances
+2019-03-01,Canada,33.280219,Appliances
+2019-04-01,Canada,21.916129,Appliances
+2019-05-01,Canada,33.292939,Appliances
+2019-06-01,Canada,33.018605,Appliances
+2019-07-01,Canada,26.686395,Appliances
+2019-08-01,Canada,26.164919,Appliances
+2019-09-01,Canada,26.181774,Appliances
+2019-10-01,Canada,24.49178,Appliances
+2019-11-01,Canada,20.392827,Appliances
+2019-12-01,Canada,19.007922,Appliances
+2020-01-01,Canada,27.222034,Appliances
+2020-02-01,Canada,29.568242,Appliances
+2020-03-01,Canada,33.573184,Appliances
+2020-04-01,Canada,19.709503,Appliances
+2020-05-01,Canada,21.056259,Appliances
+2020-06-01,Canada,32.764669,Appliances
+2020-07-01,Canada,26.344358,Appliances
+2020-08-01,Canada,24.616207,Appliances
+2020-09-01,Canada,22.896092,Appliances
+2020-10-01,Canada,23.041837,Appliances
+2020-11-01,Canada,25.721025,Appliances
+2020-12-01,Canada,17.00031,Appliances
+2021-01-01,Canada,21.600547,Appliances
+2021-02-01,Canada,24.120333,Appliances
+2021-03-01,Canada,32.199468,Appliances
+2021-04-01,Canada,28.06642,Appliances
+2021-05-01,Canada,28.602147,Appliances
+2021-06-01,Canada,24.583203,Appliances
+2021-07-01,Canada,35.761455,Appliances
+2021-08-01,Canada,29.563621,Appliances
+2021-09-01,Canada,34.04405,Appliances
+2021-10-01,Canada,30.329836,Appliances
+2021-11-01,Canada,32.064978,Appliances
+2021-12-01,Canada,29.644357,Appliances
+2022-01-01,Canada,32.168139,Appliances
+2022-02-01,Canada,36.001024,Appliances
+2022-03-01,Canada,39.451608,Appliances
+2022-04-01,Canada,45.346292,Appliances
+2022-05-01,Canada,42.31194,Appliances
+2022-06-01,Canada,46.068066,Appliances
+2022-07-01,Canada,33.620081,Appliances
+2022-08-01,Canada,36.798832,Appliances
+2022-09-01,Canada,39.132612,Appliances
+2022-10-01,Canada,56.057618,Appliances
+2022-11-01,Canada,45.250682,Appliances
+2022-12-01,Canada,41.652438,Appliances
+2023-01-01,Canada,43.492732,Appliances
+2023-02-01,Canada,50.849955,Appliances
+2023-03-01,Canada,47.784231,Appliances
+2023-04-01,Canada,43.148934,Appliances
+2023-05-01,Canada,50.669856,Appliances
+2023-06-01,Canada,49.596828,Appliances
+2023-07-01,Canada,41.209774,Appliances
+2023-08-01,Canada,34.915166,Appliances
+2023-09-01,Canada,43.622166,Appliances
+2023-10-01,Canada,45.200766,Appliances
+2023-11-01,Canada,33.726734,Appliances
+2023-12-01,Canada,34.238408,Appliances
+2024-01-01,Canada,39.248286,Appliances
+2024-02-01,Canada,38.394188,Appliances
+2024-03-01,Canada,41.76324,Appliances
+2024-04-01,Canada,33.300187,Appliances
+2024-05-01,Canada,46.31764,Appliances
+2024-06-01,Canada,48.501047,Appliances
+2024-07-01,Canada,51.12246,Appliances
+2024-08-01,Canada,42.158492,Appliances
+2024-09-01,Canada,41.402202,Appliances
+2024-10-01,Canada,56.18834,Appliances
+2024-11-01,Canada,49.76965,Appliances
+2024-12-01,Canada,45.688606,Appliances
+2025-01-01,Canada,35.708486,Appliances
+2025-02-01,Canada,46.705751,Appliances
+2025-03-01,Canada,68.184599,Appliances
+2025-04-01,Canada,41.161742,Appliances
+2025-05-01,Canada,39.22518,Appliances
+2025-06-01,Canada,44.190812,Appliances
+2025-07-01,Canada,46.807214,Appliances
+2025-08-01,Canada,44.719186,Appliances
+2015-01-01,China,101.99643,Appliances
+2015-02-01,China,84.442991,Appliances
+2015-03-01,China,123.996016,Appliances
+2015-04-01,China,144.354317,Appliances
+2015-05-01,China,167.557137,Appliances
+2015-06-01,China,183.701304,Appliances
+2015-07-01,China,164.48309,Appliances
+2015-08-01,China,162.472682,Appliances
+2015-09-01,China,145.327461,Appliances
+2015-10-01,China,153.049226,Appliances
+2015-11-01,China,130.812965,Appliances
+2015-12-01,China,116.068994,Appliances
+2016-01-01,China,122.640222,Appliances
+2016-02-01,China,122.689538,Appliances
+2016-03-01,China,119.65204,Appliances
+2016-04-01,China,151.371593,Appliances
+2016-05-01,China,167.158095,Appliances
+2016-06-01,China,189.203482,Appliances
+2016-07-01,China,166.884936,Appliances
+2016-08-01,China,165.672864,Appliances
+2016-09-01,China,148.45234,Appliances
+2016-10-01,China,163.504129,Appliances
+2016-11-01,China,164.798374,Appliances
+2016-12-01,China,164.731232,Appliances
+2017-01-01,China,139.782972,Appliances
+2017-02-01,China,142.086247,Appliances
+2017-03-01,China,123.890607,Appliances
+2017-04-01,China,149.384353,Appliances
+2017-05-01,China,187.361757,Appliances
+2017-06-01,China,205.901539,Appliances
+2017-07-01,China,188.701707,Appliances
+2017-08-01,China,172.089537,Appliances
+2017-09-01,China,179.079754,Appliances
+2017-10-01,China,184.247513,Appliances
+2017-11-01,China,170.436943,Appliances
+2017-12-01,China,171.221706,Appliances
+2018-01-01,China,162.78316,Appliances
+2018-02-01,China,136.776701,Appliances
+2018-03-01,China,142.753648,Appliances
+2018-04-01,China,167.428159,Appliances
+2018-05-01,China,210.169655,Appliances
+2018-06-01,China,237.79754,Appliances
+2018-07-01,China,238.371295,Appliances
+2018-08-01,China,230.707424,Appliances
+2018-09-01,China,217.877587,Appliances
+2018-10-01,China,227.441639,Appliances
+2018-11-01,China,193.191124,Appliances
+2018-12-01,China,204.728483,Appliances
+2019-01-01,China,127.368234,Appliances
+2019-02-01,China,98.600376,Appliances
+2019-03-01,China,113.929207,Appliances
+2019-04-01,China,131.631909,Appliances
+2019-05-01,China,177.916823,Appliances
+2019-06-01,China,173.443007,Appliances
+2019-07-01,China,179.114277,Appliances
+2019-08-01,China,159.949447,Appliances
+2019-09-01,China,178.947156,Appliances
+2019-10-01,China,156.018079,Appliances
+2019-11-01,China,144.784924,Appliances
+2019-12-01,China,142.278272,Appliances
+2020-01-01,China,149.043599,Appliances
+2020-02-01,China,107.984334,Appliances
+2020-03-01,China,75.639354,Appliances
+2020-04-01,China,145.299647,Appliances
+2020-05-01,China,197.003169,Appliances
+2020-06-01,China,234.777986,Appliances
+2020-07-01,China,259.900758,Appliances
+2020-08-01,China,259.425252,Appliances
+2020-09-01,China,270.614337,Appliances
+2020-10-01,China,290.284435,Appliances
+2020-11-01,China,293.956887,Appliances
+2020-12-01,China,303.259424,Appliances
+2021-01-01,China,304.448263,Appliances
+2021-02-01,China,227.684489,Appliances
+2021-03-01,China,258.544044,Appliances
+2021-04-01,China,246.748516,Appliances
+2021-05-01,China,253.900224,Appliances
+2021-06-01,China,236.252363,Appliances
+2021-07-01,China,216.121156,Appliances
+2021-08-01,China,256.895351,Appliances
+2021-09-01,China,236.105982,Appliances
+2021-10-01,China,268.812139,Appliances
+2021-11-01,China,274.888218,Appliances
+2021-12-01,China,262.86643,Appliances
+2022-01-01,China,284.39617,Appliances
+2022-02-01,China,241.909782,Appliances
+2022-03-01,China,268.364241,Appliances
+2022-04-01,China,306.10972,Appliances
+2022-05-01,China,306.211064,Appliances
+2022-06-01,China,262.088023,Appliances
+2022-07-01,China,255.176037,Appliances
+2022-08-01,China,252.09858,Appliances
+2022-09-01,China,213.814628,Appliances
+2022-10-01,China,198.880974,Appliances
+2022-11-01,China,155.159438,Appliances
+2022-12-01,China,156.31142,Appliances
+2023-01-01,China,160.772409,Appliances
+2023-02-01,China,140.306729,Appliances
+2023-03-01,China,138.983142,Appliances
+2023-04-01,China,176.550639,Appliances
+2023-05-01,China,184.127027,Appliances
+2023-06-01,China,183.979306,Appliances
+2023-07-01,China,177.99741,Appliances
+2023-08-01,China,184.886572,Appliances
+2023-09-01,China,207.17136,Appliances
+2023-10-01,China,235.828018,Appliances
+2023-11-01,China,213.309857,Appliances
+2023-12-01,China,209.581973,Appliances
+2024-01-01,China,219.48545,Appliances
+2024-02-01,China,191.794899,Appliances
+2024-03-01,China,164.80102,Appliances
+2024-04-01,China,178.561439,Appliances
+2024-05-01,China,208.34332,Appliances
+2024-06-01,China,203.930265,Appliances
+2024-07-01,China,238.465985,Appliances
+2024-08-01,China,248.160362,Appliances
+2024-09-01,China,242.573046,Appliances
+2024-10-01,China,244.383569,Appliances
+2024-11-01,China,227.677334,Appliances
+2024-12-01,China,227.097385,Appliances
+2025-01-01,China,233.744609,Appliances
+2025-02-01,China,222.504014,Appliances
+2025-03-01,China,186.703769,Appliances
+2025-04-01,China,210.616412,Appliances
+2025-05-01,China,148.600359,Appliances
+2025-06-01,China,89.839076,Appliances
+2025-07-01,China,190.087701,Appliances
+2025-08-01,China,182.567665,Appliances
+2015-01-01,Mexico,268.937211,Appliances
+2015-02-01,Mexico,254.506354,Appliances
+2015-03-01,Mexico,314.179565,Appliances
+2015-04-01,Mexico,333.328743,Appliances
+2015-05-01,Mexico,380.101263,Appliances
+2015-06-01,Mexico,397.901208,Appliances
+2015-07-01,Mexico,420.982204,Appliances
+2015-08-01,Mexico,381.31688,Appliances
+2015-09-01,Mexico,370.928317,Appliances
+2015-10-01,Mexico,404.058661,Appliances
+2015-11-01,Mexico,329.97139,Appliances
+2015-12-01,Mexico,256.71506,Appliances
+2016-01-01,Mexico,255.649012,Appliances
+2016-02-01,Mexico,304.926713,Appliances
+2016-03-01,Mexico,342.34104,Appliances
+2016-04-01,Mexico,341.451769,Appliances
+2016-05-01,Mexico,383.907737,Appliances
+2016-06-01,Mexico,399.242994,Appliances
+2016-07-01,Mexico,369.471873,Appliances
+2016-08-01,Mexico,391.175279,Appliances
+2016-09-01,Mexico,382.855436,Appliances
+2016-10-01,Mexico,363.960593,Appliances
+2016-11-01,Mexico,358.954929,Appliances
+2016-12-01,Mexico,289.063926,Appliances
+2017-01-01,Mexico,265.365555,Appliances
+2017-02-01,Mexico,283.883059,Appliances
+2017-03-01,Mexico,325.490961,Appliances
+2017-04-01,Mexico,352.913707,Appliances
+2017-05-01,Mexico,385.184485,Appliances
+2017-06-01,Mexico,402.863792,Appliances
+2017-07-01,Mexico,370.264732,Appliances
+2017-08-01,Mexico,376.667794,Appliances
+2017-09-01,Mexico,378.18873,Appliances
+2017-10-01,Mexico,408.394415,Appliances
+2017-11-01,Mexico,388.245389,Appliances
+2017-12-01,Mexico,306.5785,Appliances
+2018-01-01,Mexico,271.951819,Appliances
+2018-02-01,Mexico,271.49527,Appliances
+2018-03-01,Mexico,344.991064,Appliances
+2018-04-01,Mexico,373.335326,Appliances
+2018-05-01,Mexico,421.905929,Appliances
+2018-06-01,Mexico,407.172298,Appliances
+2018-07-01,Mexico,391.651645,Appliances
+2018-08-01,Mexico,388.162351,Appliances
+2018-09-01,Mexico,390.944547,Appliances
+2018-10-01,Mexico,452.133387,Appliances
+2018-11-01,Mexico,403.116792,Appliances
+2018-12-01,Mexico,332.202278,Appliances
+2019-01-01,Mexico,294.231257,Appliances
+2019-02-01,Mexico,332.357756,Appliances
+2019-03-01,Mexico,363.668967,Appliances
+2019-04-01,Mexico,361.753117,Appliances
+2019-05-01,Mexico,442.024435,Appliances
+2019-06-01,Mexico,413.920788,Appliances
+2019-07-01,Mexico,402.88599,Appliances
+2019-08-01,Mexico,402.466027,Appliances
+2019-09-01,Mexico,390.49372,Appliances
+2019-10-01,Mexico,360.537127,Appliances
+2019-11-01,Mexico,337.977313,Appliances
+2019-12-01,Mexico,297.235914,Appliances
+2020-01-01,Mexico,244.829916,Appliances
+2020-02-01,Mexico,321.534911,Appliances
+2020-03-01,Mexico,361.403395,Appliances
+2020-04-01,Mexico,326.882435,Appliances
+2020-05-01,Mexico,269.480491,Appliances
+2020-06-01,Mexico,378.454229,Appliances
+2020-07-01,Mexico,425.792287,Appliances
+2020-08-01,Mexico,417.168317,Appliances
+2020-09-01,Mexico,398.993193,Appliances
+2020-10-01,Mexico,441.923865,Appliances
+2020-11-01,Mexico,395.928361,Appliances
+2020-12-01,Mexico,360.675242,Appliances
+2021-01-01,Mexico,375.951159,Appliances
+2021-02-01,Mexico,351.514712,Appliances
+2021-03-01,Mexico,432.02921,Appliances
+2021-04-01,Mexico,382.351192,Appliances
+2021-05-01,Mexico,383.300615,Appliances
+2021-06-01,Mexico,434.281971,Appliances
+2021-07-01,Mexico,474.136167,Appliances
+2021-08-01,Mexico,450.843975,Appliances
+2021-09-01,Mexico,471.656342,Appliances
+2021-10-01,Mexico,483.488272,Appliances
+2021-11-01,Mexico,447.576,Appliances
+2021-12-01,Mexico,411.482241,Appliances
+2022-01-01,Mexico,445.911816,Appliances
+2022-02-01,Mexico,433.795187,Appliances
+2022-03-01,Mexico,527.769664,Appliances
+2022-04-01,Mexico,507.300255,Appliances
+2022-05-01,Mexico,526.868594,Appliances
+2022-06-01,Mexico,588.621046,Appliances
+2022-07-01,Mexico,557.027134,Appliances
+2022-08-01,Mexico,525.6902,Appliances
+2022-09-01,Mexico,516.238926,Appliances
+2022-10-01,Mexico,521.884073,Appliances
+2022-11-01,Mexico,467.624447,Appliances
+2022-12-01,Mexico,429.829523,Appliances
+2023-01-01,Mexico,431.938944,Appliances
+2023-02-01,Mexico,492.195867,Appliances
+2023-03-01,Mexico,574.228726,Appliances
+2023-04-01,Mexico,485.616521,Appliances
+2023-05-01,Mexico,529.14101,Appliances
+2023-06-01,Mexico,541.850709,Appliances
+2023-07-01,Mexico,544.34574,Appliances
+2023-08-01,Mexico,582.782971,Appliances
+2023-09-01,Mexico,510.346363,Appliances
+2023-10-01,Mexico,572.746431,Appliances
+2023-11-01,Mexico,526.224357,Appliances
+2023-12-01,Mexico,424.726499,Appliances
+2024-01-01,Mexico,422.221449,Appliances
+2024-02-01,Mexico,468.701662,Appliances
+2024-03-01,Mexico,498.095285,Appliances
+2024-04-01,Mexico,503.546128,Appliances
+2024-05-01,Mexico,509.936949,Appliances
+2024-06-01,Mexico,529.89709,Appliances
+2024-07-01,Mexico,568.20871,Appliances
+2024-08-01,Mexico,543.691512,Appliances
+2024-09-01,Mexico,486.608023,Appliances
+2024-10-01,Mexico,504.697687,Appliances
+2024-11-01,Mexico,512.721329,Appliances
+2024-12-01,Mexico,475.851256,Appliances
+2025-01-01,Mexico,473.935684,Appliances
+2025-02-01,Mexico,532.618332,Appliances
+2025-03-01,Mexico,599.589636,Appliances
+2025-04-01,Mexico,551.532981,Appliances
+2025-05-01,Mexico,550.153051,Appliances
+2025-06-01,Mexico,604.033839,Appliances
+2025-07-01,Mexico,606.083738,Appliances
+2025-08-01,Mexico,549.221962,Appliances
+2015-01-01,USMCA - U.S.-Mexico-Canada Agreement,288.161557,Appliances
+2015-02-01,USMCA - U.S.-Mexico-Canada Agreement,274.943964,Appliances
+2015-03-01,USMCA - U.S.-Mexico-Canada Agreement,335.494124,Appliances
+2015-04-01,USMCA - U.S.-Mexico-Canada Agreement,360.669235,Appliances
+2015-05-01,USMCA - U.S.-Mexico-Canada Agreement,401.804701,Appliances
+2015-06-01,USMCA - U.S.-Mexico-Canada Agreement,426.46492,Appliances
+2015-07-01,USMCA - U.S.-Mexico-Canada Agreement,443.958496,Appliances
+2015-08-01,USMCA - U.S.-Mexico-Canada Agreement,406.854754,Appliances
+2015-09-01,USMCA - U.S.-Mexico-Canada Agreement,391.664634,Appliances
+2015-10-01,USMCA - U.S.-Mexico-Canada Agreement,426.918508,Appliances
+2015-11-01,USMCA - U.S.-Mexico-Canada Agreement,351.71702,Appliances
+2015-12-01,USMCA - U.S.-Mexico-Canada Agreement,276.643611,Appliances
+2016-01-01,USMCA - U.S.-Mexico-Canada Agreement,275.776271,Appliances
+2016-02-01,USMCA - U.S.-Mexico-Canada Agreement,325.050531,Appliances
+2016-03-01,USMCA - U.S.-Mexico-Canada Agreement,369.633335,Appliances
+2016-04-01,USMCA - U.S.-Mexico-Canada Agreement,370.56545,Appliances
+2016-05-01,USMCA - U.S.-Mexico-Canada Agreement,409.082577,Appliances
+2016-06-01,USMCA - U.S.-Mexico-Canada Agreement,421.635469,Appliances
+2016-07-01,USMCA - U.S.-Mexico-Canada Agreement,388.954028,Appliances
+2016-08-01,USMCA - U.S.-Mexico-Canada Agreement,409.332329,Appliances
+2016-09-01,USMCA - U.S.-Mexico-Canada Agreement,403.925712,Appliances
+2016-10-01,USMCA - U.S.-Mexico-Canada Agreement,388.696376,Appliances
+2016-11-01,USMCA - U.S.-Mexico-Canada Agreement,387.569875,Appliances
+2016-12-01,USMCA - U.S.-Mexico-Canada Agreement,303.888685,Appliances
+2017-01-01,USMCA - U.S.-Mexico-Canada Agreement,284.371089,Appliances
+2017-02-01,USMCA - U.S.-Mexico-Canada Agreement,305.254938,Appliances
+2017-03-01,USMCA - U.S.-Mexico-Canada Agreement,351.009019,Appliances
+2017-04-01,USMCA - U.S.-Mexico-Canada Agreement,385.718784,Appliances
+2017-05-01,USMCA - U.S.-Mexico-Canada Agreement,414.560561,Appliances
+2017-06-01,USMCA - U.S.-Mexico-Canada Agreement,430.332518,Appliances
+2017-07-01,USMCA - U.S.-Mexico-Canada Agreement,397.316374,Appliances
+2017-08-01,USMCA - U.S.-Mexico-Canada Agreement,405.944334,Appliances
+2017-09-01,USMCA - U.S.-Mexico-Canada Agreement,402.501196,Appliances
+2017-10-01,USMCA - U.S.-Mexico-Canada Agreement,432.843701,Appliances
+2017-11-01,USMCA - U.S.-Mexico-Canada Agreement,410.27065700000003,Appliances
+2017-12-01,USMCA - U.S.-Mexico-Canada Agreement,325.057572,Appliances
+2018-01-01,USMCA - U.S.-Mexico-Canada Agreement,290.94187,Appliances
+2018-02-01,USMCA - U.S.-Mexico-Canada Agreement,294.912006,Appliances
+2018-03-01,USMCA - U.S.-Mexico-Canada Agreement,378.852618,Appliances
+2018-04-01,USMCA - U.S.-Mexico-Canada Agreement,397.128093,Appliances
+2018-05-01,USMCA - U.S.-Mexico-Canada Agreement,453.698258,Appliances
+2018-06-01,USMCA - U.S.-Mexico-Canada Agreement,433.85297,Appliances
+2018-07-01,USMCA - U.S.-Mexico-Canada Agreement,419.218731,Appliances
+2018-08-01,USMCA - U.S.-Mexico-Canada Agreement,419.262964,Appliances
+2018-09-01,USMCA - U.S.-Mexico-Canada Agreement,417.003523,Appliances
+2018-10-01,USMCA - U.S.-Mexico-Canada Agreement,482.196975,Appliances
+2018-11-01,USMCA - U.S.-Mexico-Canada Agreement,422.114048,Appliances
+2018-12-01,USMCA - U.S.-Mexico-Canada Agreement,355.463038,Appliances
+2019-01-01,USMCA - U.S.-Mexico-Canada Agreement,319.685511,Appliances
+2019-02-01,USMCA - U.S.-Mexico-Canada Agreement,356.486674,Appliances
+2019-03-01,USMCA - U.S.-Mexico-Canada Agreement,396.949186,Appliances
+2019-04-01,USMCA - U.S.-Mexico-Canada Agreement,383.669246,Appliances
+2019-05-01,USMCA - U.S.-Mexico-Canada Agreement,475.317374,Appliances
+2019-06-01,USMCA - U.S.-Mexico-Canada Agreement,446.939393,Appliances
+2019-07-01,USMCA - U.S.-Mexico-Canada Agreement,429.572385,Appliances
+2019-08-01,USMCA - U.S.-Mexico-Canada Agreement,428.630946,Appliances
+2019-09-01,USMCA - U.S.-Mexico-Canada Agreement,416.675494,Appliances
+2019-10-01,USMCA - U.S.-Mexico-Canada Agreement,385.028907,Appliances
+2019-11-01,USMCA - U.S.-Mexico-Canada Agreement,358.37014,Appliances
+2019-12-01,USMCA - U.S.-Mexico-Canada Agreement,316.243836,Appliances
+2020-01-01,USMCA - U.S.-Mexico-Canada Agreement,272.05195,Appliances
+2020-02-01,USMCA - U.S.-Mexico-Canada Agreement,351.103153,Appliances
+2020-03-01,USMCA - U.S.-Mexico-Canada Agreement,394.976579,Appliances
+2020-04-01,USMCA - U.S.-Mexico-Canada Agreement,346.591938,Appliances
+2020-05-01,USMCA - U.S.-Mexico-Canada Agreement,290.53675,Appliances
+2020-06-01,USMCA - U.S.-Mexico-Canada Agreement,411.218898,Appliances
+2020-07-01,USMCA - U.S.-Mexico-Canada Agreement,452.136645,Appliances
+2020-08-01,USMCA - U.S.-Mexico-Canada Agreement,441.784524,Appliances
+2020-09-01,USMCA - U.S.-Mexico-Canada Agreement,421.889285,Appliances
+2020-10-01,USMCA - U.S.-Mexico-Canada Agreement,464.965702,Appliances
+2020-11-01,USMCA - U.S.-Mexico-Canada Agreement,421.649386,Appliances
+2020-12-01,USMCA - U.S.-Mexico-Canada Agreement,377.675552,Appliances
+2021-01-01,USMCA - U.S.-Mexico-Canada Agreement,397.551706,Appliances
+2021-02-01,USMCA - U.S.-Mexico-Canada Agreement,375.635045,Appliances
+2021-03-01,USMCA - U.S.-Mexico-Canada Agreement,464.228678,Appliances
+2021-04-01,USMCA - U.S.-Mexico-Canada Agreement,410.417612,Appliances
+2021-05-01,USMCA - U.S.-Mexico-Canada Agreement,411.902762,Appliances
+2021-06-01,USMCA - U.S.-Mexico-Canada Agreement,458.865174,Appliances
+2021-07-01,USMCA - U.S.-Mexico-Canada Agreement,509.897622,Appliances
+2021-08-01,USMCA - U.S.-Mexico-Canada Agreement,480.407596,Appliances
+2021-09-01,USMCA - U.S.-Mexico-Canada Agreement,505.700392,Appliances
+2021-10-01,USMCA - U.S.-Mexico-Canada Agreement,513.818108,Appliances
+2021-11-01,USMCA - U.S.-Mexico-Canada Agreement,479.640978,Appliances
+2021-12-01,USMCA - U.S.-Mexico-Canada Agreement,441.126598,Appliances
+2022-01-01,USMCA - U.S.-Mexico-Canada Agreement,478.079955,Appliances
+2022-02-01,USMCA - U.S.-Mexico-Canada Agreement,469.796211,Appliances
+2022-03-01,USMCA - U.S.-Mexico-Canada Agreement,567.221272,Appliances
+2022-04-01,USMCA - U.S.-Mexico-Canada Agreement,552.646547,Appliances
+2022-05-01,USMCA - U.S.-Mexico-Canada Agreement,569.180534,Appliances
+2022-06-01,USMCA - U.S.-Mexico-Canada Agreement,634.689112,Appliances
+2022-07-01,USMCA - U.S.-Mexico-Canada Agreement,590.647215,Appliances
+2022-08-01,USMCA - U.S.-Mexico-Canada Agreement,562.489032,Appliances
+2022-09-01,USMCA - U.S.-Mexico-Canada Agreement,555.371538,Appliances
+2022-10-01,USMCA - U.S.-Mexico-Canada Agreement,577.941691,Appliances
+2022-11-01,USMCA - U.S.-Mexico-Canada Agreement,512.875129,Appliances
+2022-12-01,USMCA - U.S.-Mexico-Canada Agreement,471.481961,Appliances
+2023-01-01,USMCA - U.S.-Mexico-Canada Agreement,475.431676,Appliances
+2023-02-01,USMCA - U.S.-Mexico-Canada Agreement,543.045822,Appliances
+2023-03-01,USMCA - U.S.-Mexico-Canada Agreement,622.012957,Appliances
+2023-04-01,USMCA - U.S.-Mexico-Canada Agreement,528.765455,Appliances
+2023-05-01,USMCA - U.S.-Mexico-Canada Agreement,579.810866,Appliances
+2023-06-01,USMCA - U.S.-Mexico-Canada Agreement,591.447537,Appliances
+2023-07-01,USMCA - U.S.-Mexico-Canada Agreement,585.555514,Appliances
+2023-08-01,USMCA - U.S.-Mexico-Canada Agreement,617.698137,Appliances
+2023-09-01,USMCA - U.S.-Mexico-Canada Agreement,553.968529,Appliances
+2023-10-01,USMCA - U.S.-Mexico-Canada Agreement,617.947197,Appliances
+2023-11-01,USMCA - U.S.-Mexico-Canada Agreement,559.951091,Appliances
+2023-12-01,USMCA - U.S.-Mexico-Canada Agreement,458.964907,Appliances
+2024-01-01,USMCA - U.S.-Mexico-Canada Agreement,461.469735,Appliances
+2024-02-01,USMCA - U.S.-Mexico-Canada Agreement,507.09585,Appliances
+2024-03-01,USMCA - U.S.-Mexico-Canada Agreement,539.858525,Appliances
+2024-04-01,USMCA - U.S.-Mexico-Canada Agreement,536.846315,Appliances
+2024-05-01,USMCA - U.S.-Mexico-Canada Agreement,556.254589,Appliances
+2024-06-01,USMCA - U.S.-Mexico-Canada Agreement,578.398137,Appliances
+2024-07-01,USMCA - U.S.-Mexico-Canada Agreement,619.33117,Appliances
+2024-08-01,USMCA - U.S.-Mexico-Canada Agreement,585.850004,Appliances
+2024-09-01,USMCA - U.S.-Mexico-Canada Agreement,528.010225,Appliances
+2024-10-01,USMCA - U.S.-Mexico-Canada Agreement,560.886027,Appliances
+2024-11-01,USMCA - U.S.-Mexico-Canada Agreement,562.490979,Appliances
+2024-12-01,USMCA - U.S.-Mexico-Canada Agreement,521.539862,Appliances
+2025-01-01,USMCA - U.S.-Mexico-Canada Agreement,509.64417,Appliances
+2025-02-01,USMCA - U.S.-Mexico-Canada Agreement,579.324083,Appliances
+2025-03-01,USMCA - U.S.-Mexico-Canada Agreement,667.774235,Appliances
+2025-04-01,USMCA - U.S.-Mexico-Canada Agreement,592.694723,Appliances
+2025-05-01,USMCA - U.S.-Mexico-Canada Agreement,589.378231,Appliances
+2025-06-01,USMCA - U.S.-Mexico-Canada Agreement,648.224651,Appliances
+2025-07-01,USMCA - U.S.-Mexico-Canada Agreement,652.890952,Appliances
+2025-08-01,USMCA - U.S.-Mexico-Canada Agreement,593.941148,Appliances
+2015-05-01,Canada,0.277557,Appliances
+2017-06-01,Canada,0.052924,Appliances
+2017-07-01,Canada,0.020545,Appliances
+2017-08-01,Canada,0.004712,Appliances
+2018-02-01,Canada,0.010874,Appliances
+2019-01-01,Canada,0.002077,Appliances
+2021-04-01,Canada,0.0052,Appliances
+2021-11-01,Canada,0.00474,Appliances
+2022-01-01,Canada,0.104373,Appliances
+2022-10-01,Canada,0.002341,Appliances
+2023-04-01,Canada,0.002233,Appliances
+2023-07-01,Canada,0.023085,Appliances
+2023-08-01,Canada,0.0039,Appliances
+2023-10-01,Canada,0.0088,Appliances
+2023-11-01,Canada,0.002603,Appliances
+2023-12-01,Canada,0.00863,Appliances
+2024-06-01,Canada,0.00216,Appliances
+2024-07-01,Canada,0.00283,Appliances
+2024-09-01,Canada,0.0076,Appliances
+2024-10-01,Canada,0.057156,Appliances
+2024-11-01,Canada,0.011361,Appliances
+2025-01-01,Canada,0.060975,Appliances
+2025-02-01,Canada,0.003,Appliances
+2025-03-01,Canada,0.005725,Appliances
+2025-08-01,Canada,0.00726,Appliances
+2015-01-01,China,12.493826,Appliances
+2015-02-01,China,15.367912,Appliances
+2015-03-01,China,18.036101,Appliances
+2015-04-01,China,15.056328,Appliances
+2015-05-01,China,17.583447,Appliances
+2015-06-01,China,19.640207,Appliances
+2015-07-01,China,23.230167,Appliances
+2015-08-01,China,21.177952,Appliances
+2015-09-01,China,22.85899,Appliances
+2015-10-01,China,21.4708,Appliances
+2015-11-01,China,17.997823,Appliances
+2015-12-01,China,15.190953,Appliances
+2016-01-01,China,15.206069,Appliances
+2016-02-01,China,21.262075,Appliances
+2016-03-01,China,5.735034,Appliances
+2016-04-01,China,11.387523,Appliances
+2016-05-01,China,13.267242,Appliances
+2016-06-01,China,16.756561,Appliances
+2016-07-01,China,14.349783,Appliances
+2016-08-01,China,17.676421,Appliances
+2016-09-01,China,16.503476,Appliances
+2016-10-01,China,13.723924,Appliances
+2016-11-01,China,13.612833,Appliances
+2016-12-01,China,14.696183,Appliances
+2017-01-01,China,16.263137,Appliances
+2017-02-01,China,14.498075,Appliances
+2017-03-01,China,7.398327,Appliances
+2017-04-01,China,13.617625,Appliances
+2017-05-01,China,16.610196,Appliances
+2017-06-01,China,17.952431,Appliances
+2017-07-01,China,15.345281,Appliances
+2017-08-01,China,20.663153,Appliances
+2017-09-01,China,17.274502,Appliances
+2017-10-01,China,16.479089,Appliances
+2017-11-01,China,14.528359,Appliances
+2017-12-01,China,15.40986,Appliances
+2018-01-01,China,18.159099,Appliances
+2018-02-01,China,18.248035,Appliances
+2018-03-01,China,10.75,Appliances
+2018-04-01,China,12.456175,Appliances
+2018-05-01,China,17.90819,Appliances
+2018-06-01,China,17.538595,Appliances
+2018-07-01,China,18.728259,Appliances
+2018-08-01,China,20.8705,Appliances
+2018-09-01,China,18.537035,Appliances
+2018-10-01,China,19.907442,Appliances
+2018-11-01,China,12.711028,Appliances
+2018-12-01,China,14.938569,Appliances
+2019-01-01,China,21.523454,Appliances
+2019-02-01,China,17.663042,Appliances
+2019-03-01,China,12.674405,Appliances
+2019-04-01,China,18.276755,Appliances
+2019-05-01,China,26.108257,Appliances
+2019-06-01,China,23.779173,Appliances
+2019-07-01,China,24.25335,Appliances
+2019-08-01,China,25.16106,Appliances
+2019-09-01,China,19.988468,Appliances
+2019-10-01,China,16.981479,Appliances
+2019-11-01,China,17.594528,Appliances
+2019-12-01,China,13.650641,Appliances
+2020-01-01,China,16.231042,Appliances
+2020-02-01,China,10.004827,Appliances
+2020-03-01,China,6.881611,Appliances
+2020-04-01,China,8.748019,Appliances
+2020-05-01,China,15.214375,Appliances
+2020-06-01,China,21.889488,Appliances
+2020-07-01,China,26.070724,Appliances
+2020-08-01,China,19.173275,Appliances
+2020-09-01,China,25.005269,Appliances
+2020-10-01,China,24.341565,Appliances
+2020-11-01,China,22.107496,Appliances
+2020-12-01,China,25.273936,Appliances
+2021-01-01,China,27.765754,Appliances
+2021-02-01,China,25.752808,Appliances
+2021-03-01,China,23.614924,Appliances
+2021-04-01,China,16.260916,Appliances
+2021-05-01,China,20.12484,Appliances
+2021-06-01,China,21.860035,Appliances
+2021-07-01,China,23.809446,Appliances
+2021-08-01,China,24.122891,Appliances
+2021-09-01,China,29.931209,Appliances
+2021-10-01,China,27.965339,Appliances
+2021-11-01,China,27.411911,Appliances
+2021-12-01,China,29.1109,Appliances
+2022-01-01,China,31.579284,Appliances
+2022-02-01,China,27.927715,Appliances
+2022-03-01,China,31.3058,Appliances
+2022-04-01,China,20.564841,Appliances
+2022-05-01,China,27.209514,Appliances
+2022-06-01,China,27.705818,Appliances
+2022-07-01,China,23.183804,Appliances
+2022-08-01,China,21.779776,Appliances
+2022-09-01,China,20.620664,Appliances
+2022-10-01,China,17.573136,Appliances
+2022-11-01,China,18.299489,Appliances
+2022-12-01,China,15.719349,Appliances
+2023-01-01,China,19.312293,Appliances
+2023-02-01,China,17.051318,Appliances
+2023-03-01,China,16.115508,Appliances
+2023-04-01,China,19.932283,Appliances
+2023-05-01,China,27.636477,Appliances
+2023-06-01,China,26.205923,Appliances
+2023-07-01,China,23.19412,Appliances
+2023-08-01,China,24.670107,Appliances
+2023-09-01,China,27.160202,Appliances
+2023-10-01,China,23.065755,Appliances
+2023-11-01,China,20.652977,Appliances
+2023-12-01,China,17.196918,Appliances
+2024-01-01,China,21.740448,Appliances
+2024-02-01,China,22.850723,Appliances
+2024-03-01,China,19.306672,Appliances
+2024-04-01,China,22.97066,Appliances
+2024-05-01,China,24.857251,Appliances
+2024-06-01,China,25.388146,Appliances
+2024-07-01,China,28.533026,Appliances
+2024-08-01,China,23.593088,Appliances
+2024-09-01,China,30.658934,Appliances
+2024-10-01,China,22.666053,Appliances
+2024-11-01,China,31.392437,Appliances
+2024-12-01,China,16.028644,Appliances
+2025-01-01,China,25.807994,Appliances
+2025-02-01,China,18.034032,Appliances
+2025-03-01,China,11.668751,Appliances
+2025-04-01,China,16.507173,Appliances
+2025-05-01,China,8.889147,Appliances
+2025-06-01,China,8.959001,Appliances
+2025-07-01,China,20.646275,Appliances
+2025-08-01,China,19.286135,Appliances
+2015-01-01,Mexico,0.026121,Appliances
+2015-02-01,Mexico,0.066583,Appliances
+2015-03-01,Mexico,0.032492,Appliances
+2015-04-01,Mexico,0.022797,Appliances
+2015-05-01,Mexico,0.026597,Appliances
+2015-06-01,Mexico,0.008522,Appliances
+2015-07-01,Mexico,0.046569,Appliances
+2015-08-01,Mexico,0.028575,Appliances
+2015-10-01,Mexico,0.028534,Appliances
+2015-11-01,Mexico,0.015277,Appliances
+2015-12-01,Mexico,0.039089,Appliances
+2016-01-01,Mexico,0.012161,Appliances
+2016-02-01,Mexico,0.025953,Appliances
+2016-03-01,Mexico,0.03932,Appliances
+2016-04-01,Mexico,0.015553,Appliances
+2016-05-01,Mexico,0.043226,Appliances
+2016-07-01,Mexico,0.028619,Appliances
+2016-08-01,Mexico,0.021326,Appliances
+2016-09-01,Mexico,0.031958,Appliances
+2016-10-01,Mexico,0.006433,Appliances
+2016-11-01,Mexico,0.016104,Appliances
+2017-01-01,Mexico,0.029086,Appliances
+2017-02-01,Mexico,0.010703,Appliances
+2017-03-01,Mexico,0.015381,Appliances
+2017-04-01,Mexico,0.030276,Appliances
+2017-05-01,Mexico,0.018699,Appliances
+2017-06-01,Mexico,0.006076,Appliances
+2017-07-01,Mexico,0.017806,Appliances
+2017-08-01,Mexico,0.014142,Appliances
+2017-09-01,Mexico,0.011104,Appliances
+2017-11-01,Mexico,0.021737,Appliances
+2017-12-01,Mexico,0.042918,Appliances
+2018-01-01,Mexico,0.003509,Appliances
+2018-02-01,Mexico,0.021737,Appliances
+2018-03-01,Mexico,0.013671,Appliances
+2018-04-01,Mexico,0.016487,Appliances
+2018-05-01,Mexico,0.029123,Appliances
+2018-06-01,Mexico,0.06541,Appliances
+2018-07-01,Mexico,0.168177,Appliances
+2018-08-01,Mexico,0.164019,Appliances
+2018-09-01,Mexico,0.140286,Appliances
+2018-10-01,Mexico,0.134856,Appliances
+2018-11-01,Mexico,0.057961,Appliances
+2018-12-01,Mexico,0.065537,Appliances
+2019-01-01,Mexico,0.075586,Appliances
+2019-02-01,Mexico,0.067277,Appliances
+2019-03-01,Mexico,0.16045,Appliances
+2019-04-01,Mexico,0.121398,Appliances
+2019-05-01,Mexico,0.096734,Appliances
+2019-06-01,Mexico,0.108285,Appliances
+2019-07-01,Mexico,0.080423,Appliances
+2019-08-01,Mexico,0.039239,Appliances
+2019-09-01,Mexico,0.047021,Appliances
+2019-10-01,Mexico,0.084701,Appliances
+2019-11-01,Mexico,0.141108,Appliances
+2019-12-01,Mexico,0.039689,Appliances
+2020-01-01,Mexico,0.056813,Appliances
+2020-02-01,Mexico,0.080271,Appliances
+2020-03-01,Mexico,0.07577,Appliances
+2020-04-01,Mexico,0.003608,Appliances
+2020-05-01,Mexico,0.007216,Appliances
+2020-06-01,Mexico,0.073061,Appliances
+2020-07-01,Mexico,0.117265,Appliances
+2020-08-01,Mexico,0.090204,Appliances
+2020-09-01,Mexico,0.063142,Appliances
+2020-10-01,Mexico,0.135306,Appliances
+2020-11-01,Mexico,0.110199,Appliances
+2020-12-01,Mexico,0.064796,Appliances
+2021-01-01,Mexico,0.125384,Appliances
+2021-02-01,Mexico,0.137486,Appliances
+2021-03-01,Mexico,0.179957,Appliances
+2021-04-01,Mexico,0.153348,Appliances
+2021-05-01,Mexico,0.215244,Appliances
+2021-06-01,Mexico,0.159305,Appliances
+2021-07-01,Mexico,0.136617,Appliances
+2021-08-01,Mexico,0.134666,Appliances
+2021-09-01,Mexico,0.096518,Appliances
+2021-10-01,Mexico,0.128917,Appliances
+2021-11-01,Mexico,0.108245,Appliances
+2021-12-01,Mexico,0.085694,Appliances
+2022-01-01,Mexico,0.139815,Appliances
+2022-02-01,Mexico,0.171388,Appliances
+2022-03-01,Mexico,0.184166,Appliances
+2022-04-01,Mexico,0.099222,Appliances
+2022-05-01,Mexico,0.20076,Appliances
+2022-06-01,Mexico,0.072846,Appliances
+2022-07-01,Mexico,0.315869,Appliances
+2022-08-01,Mexico,0.63335,Appliances
+2022-09-01,Mexico,0.670803,Appliances
+2022-10-01,Mexico,0.817298,Appliances
+2022-11-01,Mexico,0.622747,Appliances
+2022-12-01,Mexico,0.316124,Appliances
+2023-01-01,Mexico,0.43178,Appliances
+2023-02-01,Mexico,0.609117,Appliances
+2023-03-01,Mexico,0.544049,Appliances
+2023-04-01,Mexico,0.39207,Appliances
+2023-05-01,Mexico,0.354729,Appliances
+2023-06-01,Mexico,0.13069,Appliances
+2023-08-01,Mexico,0.271048,Appliances
+2023-09-01,Mexico,0.464438,Appliances
+2023-10-01,Mexico,0.70652,Appliances
+2023-11-01,Mexico,0.606817,Appliances
+2023-12-01,Mexico,0.262121,Appliances
+2024-01-01,Mexico,0.05003,Appliances
+2024-03-01,Mexico,0.187613,Appliances
+2024-06-01,Mexico,0.742413,Appliances
+2024-07-01,Mexico,0.125701,Appliances
+2024-08-01,Mexico,0.301689,Appliances
+2024-09-01,Mexico,0.574723,Appliances
+2024-10-01,Mexico,0.202623,Appliances
+2024-11-01,Mexico,0.727315,Appliances
+2024-12-01,Mexico,0.263731,Appliances
+2025-01-01,Mexico,0.015455,Appliances
+2025-04-01,Mexico,0.10305,Appliances
+2025-05-01,Mexico,0.153179,Appliances
+2025-06-01,Mexico,0.090751,Appliances
+2025-07-01,Mexico,0.504892,Appliances
+2025-08-01,Mexico,0.152428,Appliances
+2015-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.026121,Appliances
+2015-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.066583,Appliances
+2015-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.032492,Appliances
+2015-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.022797,Appliances
+2015-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.304154,Appliances
+2015-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.008522,Appliances
+2015-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.046569,Appliances
+2015-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.028575,Appliances
+2015-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.028534,Appliances
+2015-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.015277,Appliances
+2015-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.039089,Appliances
+2016-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.012161,Appliances
+2016-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.025953,Appliances
+2016-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.03932,Appliances
+2016-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.015553,Appliances
+2016-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.043226,Appliances
+2016-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.028619,Appliances
+2016-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.021326,Appliances
+2016-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.031958,Appliances
+2016-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.006433,Appliances
+2016-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.016104,Appliances
+2017-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.029086,Appliances
+2017-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.010703,Appliances
+2017-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.015381,Appliances
+2017-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.030276,Appliances
+2017-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.018699,Appliances
+2017-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.059,Appliances
+2017-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.038351,Appliances
+2017-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.018854,Appliances
+2017-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.011104,Appliances
+2017-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.021737,Appliances
+2017-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.042918,Appliances
+2018-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.003509,Appliances
+2018-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.032611,Appliances
+2018-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.013671,Appliances
+2018-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.016487,Appliances
+2018-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.029123,Appliances
+2018-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.06541,Appliances
+2018-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.168177,Appliances
+2018-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.164019,Appliances
+2018-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.140286,Appliances
+2018-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.134856,Appliances
+2018-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.057961,Appliances
+2018-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.065537,Appliances
+2019-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.077663,Appliances
+2019-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.067277,Appliances
+2019-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.16045,Appliances
+2019-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.121398,Appliances
+2019-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.096734,Appliances
+2019-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.108285,Appliances
+2019-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.080423,Appliances
+2019-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.039239,Appliances
+2019-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.047021,Appliances
+2019-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.084701,Appliances
+2019-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.141108,Appliances
+2019-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.039689,Appliances
+2020-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.056813,Appliances
+2020-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.080271,Appliances
+2020-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.07577,Appliances
+2020-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.003608,Appliances
+2020-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.007216,Appliances
+2020-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.073061,Appliances
+2020-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.117265,Appliances
+2020-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.090204,Appliances
+2020-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.063142,Appliances
+2020-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.135306,Appliances
+2020-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.110199,Appliances
+2020-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.064796,Appliances
+2021-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.125384,Appliances
+2021-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.137486,Appliances
+2021-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.179957,Appliances
+2021-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.158548,Appliances
+2021-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.215244,Appliances
+2021-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.159305,Appliances
+2021-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.136617,Appliances
+2021-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.134666,Appliances
+2021-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.096518,Appliances
+2021-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.128917,Appliances
+2021-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.112985,Appliances
+2021-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.085694,Appliances
+2022-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.244188,Appliances
+2022-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.171388,Appliances
+2022-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.184166,Appliances
+2022-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.099222,Appliances
+2022-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.20076,Appliances
+2022-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.072846,Appliances
+2022-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.315869,Appliances
+2022-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.63335,Appliances
+2022-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.670803,Appliances
+2022-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.819639,Appliances
+2022-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.622747,Appliances
+2022-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.316124,Appliances
+2023-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.43178,Appliances
+2023-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.609117,Appliances
+2023-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.544049,Appliances
+2023-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.394303,Appliances
+2023-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.354729,Appliances
+2023-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.13069,Appliances
+2023-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.023085,Appliances
+2023-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.274948,Appliances
+2023-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.464438,Appliances
+2023-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.71532,Appliances
+2023-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.60942,Appliances
+2023-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.270751,Appliances
+2024-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.05003,Appliances
+2024-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.187613,Appliances
+2024-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.744573,Appliances
+2024-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.128531,Appliances
+2024-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.301689,Appliances
+2024-09-01,USMCA - U.S.-Mexico-Canada Agreement,0.582323,Appliances
+2024-10-01,USMCA - U.S.-Mexico-Canada Agreement,0.259779,Appliances
+2024-11-01,USMCA - U.S.-Mexico-Canada Agreement,0.738676,Appliances
+2024-12-01,USMCA - U.S.-Mexico-Canada Agreement,0.263731,Appliances
+2025-01-01,USMCA - U.S.-Mexico-Canada Agreement,0.07643,Appliances
+2025-02-01,USMCA - U.S.-Mexico-Canada Agreement,0.003,Appliances
+2025-03-01,USMCA - U.S.-Mexico-Canada Agreement,0.005725,Appliances
+2025-04-01,USMCA - U.S.-Mexico-Canada Agreement,0.10305,Appliances
+2025-05-01,USMCA - U.S.-Mexico-Canada Agreement,0.153179,Appliances
+2025-06-01,USMCA - U.S.-Mexico-Canada Agreement,0.090751,Appliances
+2025-07-01,USMCA - U.S.-Mexico-Canada Agreement,0.504892,Appliances
+2025-08-01,USMCA - U.S.-Mexico-Canada Agreement,0.159688,Appliances

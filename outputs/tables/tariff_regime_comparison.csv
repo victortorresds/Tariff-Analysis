@@ -1,0 +1,4 @@
+Tariff_Regime,Tariff_Rate_China,DiD_Estimate,Avg_China_Imports,Change_from_Baseline
+Baseline (2015-2017),0%,NA,40299.63180622222,0
+Section 301 (2018-2024),25% (List 1-4),-9994.872745117424,34219.406923999995,-15.08754450030346
+Universal (2025),~69% (25% + 10% + 34%),-12113.134617759268,23272.923433,-42.2502827199362

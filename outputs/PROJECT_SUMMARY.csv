@@ -1,0 +1,9 @@
+Metric,Count
+Total Figures,20
+Main Analysis Figures,14
+Robustness/Extension Figures,6
+Active R Scripts,13
+Data Sources,"3 (FRED, Census Truck Parts, Census Appliances)"
+Countries Analyzed,"4 (China, Mexico, Canada, Brazil)"
+Time Period,2015-2025 (132 months)
+Analysis Methods,"DiD, Robustness Checks, Projections, Product Comparison"

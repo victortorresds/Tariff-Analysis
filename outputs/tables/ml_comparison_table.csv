@@ -1,0 +1,3 @@
+Model,R_squared,RMSE_million,Interpretability,Inference,Best_Use
+DiD Regression,0.159,7999,High (causal),Yes (p-values),Causal estimation
+Random Forest,0.009,6419,Medium (importance),No,Prediction
