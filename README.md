@@ -23,7 +23,7 @@ Difference-in-differences econometric analysis featuring:
 
 ## View Complete Analysis
 
-**[→ Click here for full analysis with all figures and code](PORTFOLIO_CODE_WITH_DATA.md)**
+**[→ Click here for full analysis with all figures and code](tariff_analysis.md)**
 
 ## Repository Structure
 ```
@@ -52,19 +52,19 @@ git clone https://github.com/victortorresds/Tariff-Analysis.git
 setwd("path/to/Tariff-Analysis")
 
 # Render the analysis
-rmarkdown::render("PORTFOLIO_CODE_WITH_DATA.Rmd", output_format = "github_document")
+rmarkdown::render("tariff_analysis.Rmd", output_format = "github_document")
 ```
 
 ## Key Visualizations
 
 ### Import Trends by Country
-![Import Trends](outputs/figures/fig01_raw_trends.png)
+![Import Trends](outputs/figures/fig1_import_trends_raw.png)
 
 ### Trade Diversion Heatmap  
-![Trade Diversion](outputs/figures/fig15_heatmap.png)
+![Trade Diversion](outputs/figures/fig15_import_changes_heatmap.png)
 
 ### Product Heterogeneity
-![Product Comparison](outputs/figures/fig16_product_comparison.png)
+![Product Comparison](fig16b_industry_comparison_timeseries.png)
 
 ## Technical Details
 
