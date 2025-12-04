@@ -64,7 +64,7 @@ rmarkdown::render("tariff_analysis.Rmd", output_format = "github_document")
 ![Trade Diversion](outputs/figures/fig15_import_changes_heatmap.png)
 
 ### Product Heterogeneity
-![Product Comparison](fig16b_industry_comparison_timeseries.png)
+![Product Comparison](outputs/figures/fig16b_industry_comparison_timeseries.png)
 
 ## Technical Details
 
