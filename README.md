@@ -23,7 +23,7 @@ Difference-in-differences econometric analysis featuring:
 
 ## View Complete Analysis
 
-**[→ Click here for full analysis with all figures and code](tariff_analysis.md)**
+**[→ Click here for full analysis with all figures and code](Tariff-Analysis\code\tariff_analysis.md")**
 
 ## Repository Structure
 ```
@@ -58,13 +58,13 @@ rmarkdown::render("tariff_analysis.Rmd", output_format = "github_document")
 ## Key Visualizations
 
 ### Import Trends by Country
-![Import Trends](outputs/figures/fig1_import_trends_raw.png)
+![Import Trends]("Tariff-Analysis\code\outputs\figures\fig01_raw_trends.png")
 
 ### Trade Diversion Heatmap  
-![Trade Diversion](outputs/figures/fig15_import_changes_heatmap.png)
+![Trade Diversion]("Tariff-Analysis\code\outputs\figures\fig15_import_changes_heatmap.png")
 
 ### Product Heterogeneity
-![Product Comparison](outputs/figures/fig16b_industry_comparison_timeseries.png)
+![Product Comparison]("Tariff-Analysis\code\outputs\figures\fig16b_industry_comparison_timeseries.png")
 
 ## Technical Details
 
